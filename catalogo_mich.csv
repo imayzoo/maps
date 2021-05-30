@@ -1,0 +1,114 @@
+CLAVE,MUN,jurisdiction,jurisdiction_key,municipality,nombre_shape
+1,ACUITZIO,PÁTZCUARO,4,Acuitzio,Acuitzio
+2,AGUILILLA,APATZINGÁN,7,Aguililla,Aguililla
+3,ÁLVARO OBREGÓN,MORELIA,1,Álvaro Obregón,Álvaro Obregón
+4,ANGAMACUTIRO,LA PIEDAD,6,Angamacutiro,Angamacutiro
+5,ANGANGUEO,ZITÁCUARO,3,Angangueo,Angangueo
+6,APATZINGÁN,APATZINGÁN,7,Apatzingán,Apatzingán
+7,APORO,ZITÁCUARO,3,Aporo,Aporo
+8,AQUILA,LÁZARO CÁRDENAS,8,Aquila,Aquila
+9,ARIO,PÁTZCUARO,4,Ario,Ario
+10,ARTEAGA,LÁZARO CÁRDENAS,8,Arteaga,Arteaga
+11,BRISEÑAS,ZAMORA,2,Briseñas,Briseñas
+12,BUENAVISTA,APATZINGÁN,7,Buenavista,Buenavista
+13,CARÁCUARO,PÁTZCUARO,4,Carácuaro,Carácuaro
+14,COAHUAYANA,LÁZARO CÁRDENAS,8,Coahuayana,Coahuayana
+15,COALCOMÁN DE VÁZQUEZ PALLARES,APATZINGÁN,7,Coalcomán De Vázquez Pallares,Coalcomán de Vázquez Pallares
+16,COENEO,PÁTZCUARO,4,Coeneo,Coeneo
+17,CONTEPEC,ZITÁCUARO,3,Contepec,Contepec
+18,COPÁNDARO,MORELIA,1,Copándaro,Copándaro
+19,COTIJA,ZAMORA,2,Cotija,Cotija
+20,CUITZEO,MORELIA,1,Cuitzeo,Cuitzeo
+21,CHARAPAN,URUAPAN,5,Charapan,Charapan
+22,CHARO,MORELIA,1,Charo,Charo
+23,CHAVINDA,ZAMORA,2,Chavinda,Chavinda
+24,CHERÁN,URUAPAN,5,Cherán,Cheran
+25,CHILCHOTA,ZAMORA,2,Chilchota,Chilchota
+26,CHINICUILA,LÁZARO CÁRDENAS,8,Chinicuila,Chinicuila
+27,CHUCÁNDIRO,MORELIA,1,Chucándiro,Chucándiro
+28,CHURINTZIO,LA PIEDAD,6,Churintzio,Churintzio
+29,CHURUMUCO,APATZINGÁN,7,Churumuco,Churumuco
+30,ECUANDUREO,ZAMORA,2,Ecuandureo,Ecuandureo
+31,EPITACIO HUERTA,ZITÁCUARO,3,Epitacio Huerta,Epitacio Huerta
+32,ERONGARÍCUARO,PÁTZCUARO,4,Erongarícuaro,Erongarícuaro
+33,GABRIEL ZAMORA,URUAPAN,5,Gabriel Zamora,Gabriel Zamora
+34,HIDALGO,ZITÁCUARO,3,Hidalgo,Hidalgo
+35,LA HUACANA,APATZINGÁN,7,La Huacana,La Huacana
+36,HUANDACAREO,MORELIA,1,Huandacareo,Huandacareo
+37,HUANIQUEO,MORELIA,1,Huaniqueo,Huaniqueo
+38,HUETAMO,ZITÁCUARO,3,Huetamo,Huetamo
+39,HUIRAMBA,PÁTZCUARO,4,Huiramba,Huiramba
+40,INDAPARAPEO,MORELIA,1,Indaparapeo,Indaparapeo
+41,IRIMBO,ZITÁCUARO,3,Irimbo,Irimbo
+42,IXTLÁN,ZAMORA,2,Ixtlán,Ixtlán
+43,JACONA,ZAMORA,2,Jacona,Jacona
+44,JIMÉNEZ,PÁTZCUARO,4,Jiménez,Jiménez
+45,JIQUILPAN,ZAMORA,2,Jiquilpan,Jiquilpan
+46,JUÁREZ,ZITÁCUARO,3,Juárez,Juárez
+47,JUNGAPEO,ZITÁCUARO,3,Jungapeo,Jungapeo
+48,LAGUNILLAS,PÁTZCUARO,4,Lagunillas,Lagunillas
+49,MADERO,PÁTZCUARO,4,Madero,Madero
+50,MARAVATÍO,MORELIA,1,Maravatío,Maravatío
+51,MARCOS CASTELLANOS,ZAMORA,2,Marcos Castellanos,Marcos Castellanos
+52,LÁZARO CÁRDENAS,LÁZARO CÁRDENAS,8,Lázaro Cárdenas,Lázaro Cárdenas
+53,MORELIA,MORELIA,1,Morelia,Morelia
+54,MORELOS,LA PIEDAD,6,Morelos,Morelos
+55,MÚGICA,APATZINGÁN,7,Múgica,Múgica
+56,NAHUATZEN,URUAPAN,5,Nahuatzen,Nahuatzen
+57,NOCUPÉTARO,PÁTZCUARO,4,Nocupétaro,Nocupétaro
+58,NUEVO PARANGARICUTIRO,URUAPAN,5,Nuevo Parangaricutiro,Nuevo Paranguricutiro
+59,NUEVO URECHO,URUAPAN,5,Nuevo Urecho,Nuevo Urecho
+60,NUMARÁN,LA PIEDAD,6,Numarán,Numarán
+61,OCAMPO,ZITÁCUARO,3,Ocampo,Ocampo
+62,PAJACUARÁN,ZAMORA,2,Pajacuarán,Pajacuarán
+63,PANINDÍCUARO,PÁTZCUARO,4,Panindícuaro,Panindícuaro
+64,PARÁCUARO,APATZINGÁN,7,Parácuaro,Parácuaro
+65,PARACHO,URUAPAN,5,Paracho,Paracho
+66,PÁTZCUARO,PÁTZCUARO,4,Pátzcuaro,Pátzcuaro
+67,PENJAMILLO,LA PIEDAD,6,Penjamillo,Penjamillo
+68,PERIBÁN,URUAPAN,5,Peribán,Peribán
+69,LA PIEDAD,LA PIEDAD,6,La Piedad,La Piedad
+70,PURÉPERO,ZAMORA,2,Purépero,Purépero
+71,PURUÁNDIRO,LA PIEDAD,6,Puruándiro,Puruándiro
+72,QUERÉNDARO,MORELIA,1,Queréndaro,Queréndaro
+73,QUIROGA,PÁTZCUARO,4,Quiroga,Quiroga
+74,COJUMATLÁN DE RÉGULES,ZAMORA,2,Cojumatlán De Régules,Cojumatlán de Régules
+75,LOS REYES,URUAPAN,5,Los Reyes,Los Reyes
+76,SAHUAYO,ZAMORA,2,Sahuayo,Sahuayo
+77,SAN LUCAS,ZITÁCUARO,3,San Lucas,San Lucas
+78,SANTA ANA MAYA,MORELIA,1,Santa Ana Maya,Santa Ana Maya
+79,SALVADOR ESCALANTE,PÁTZCUARO,4,Salvador Escalante,Salvador Escalante
+80,SENGUIO,ZITÁCUARO,3,Senguio,Senguio
+81,SUSUPUATO,ZITÁCUARO,3,Susupuato,Susupuato
+82,TACÁMBARO,PÁTZCUARO,4,Tacámbaro,Tacámbaro
+83,TANCÍTARO,URUAPAN,5,Tancítaro,Tancítaro
+84,TANGAMANDAPIO,ZAMORA,2,Tangamandapio,Tangamandapio
+85,TANGANCÍCUARO,ZAMORA,2,Tangancícuaro,Tangancícuaro
+86,TANHUATO,LA PIEDAD,6,Tanhuato,Tanhuato
+87,TARETAN,URUAPAN,5,Taretan,Taretan
+88,TARÍMBARO,MORELIA,1,Tarímbaro,Tarímbaro
+89,TEPALCATEPEC,APATZINGÁN,7,Tepalcatepec,Tepalcatepec
+90,TINGAMBATO,URUAPAN,5,Tingambato,Tingambato
+91,TINGÜINDÍN,ZAMORA,2,Tingüindín,Tingüindín
+92,TIQUICHEO DE NICOLÁS ROMERO,ZITÁCUARO,3,Tiquicheo De Nicolás Romero,Tiquicheo de Nicolás Romero
+93,TLALPUJAHUA,ZITÁCUARO,3,Tlalpujahua,Tlalpujahua
+94,TLAZAZALCA,LA PIEDAD,6,Tlazazalca,Tlazazalca
+95,TOCUMBO,ZAMORA,2,Tocumbo,Tocumbo
+96,TUMBISCATÍO,LÁZARO CÁRDENAS,8,Tumbiscatío,Tumbiscatío
+97,TURICATO,PÁTZCUARO,4,Turicato,Turicato
+98,TUXPAN,ZITÁCUARO,3,Tuxpan,Tuxpan
+99,TUZANTLA,ZITÁCUARO,3,Tuzantla,Tuzantla
+100,TZINTZUNTZAN,PÁTZCUARO,4,Tzintzuntzan,Tzintzuntzan
+101,TZITZIO,MORELIA,1,Tzitzio,Tzitzio
+102,URUAPAN,URUAPAN,5,Uruapan,Uruapan
+103,VENUSTIANO CARRANZA,ZAMORA,2,Venustiano Carranza,Venustiano Carranza
+104,VILLAMAR,ZAMORA,2,Villamar,Villamar
+105,VISTA HERMOSA,ZAMORA,2,Vista Hermosa,Vista Hermosa
+106,YURÉCUARO,LA PIEDAD,6,Yurécuaro,Yurécuaro
+107,ZACAPU,PÁTZCUARO,4,Zacapu,Zacapu
+108,ZAMORA,ZAMORA,2,Zamora,Zamora
+109,ZINÁPARO,LA PIEDAD,6,Zináparo,Zináparo
+110,ZINAPÉCUARO,MORELIA,1,Zinapécuaro,Zinapécuaro
+111,ZIRACUARETIRO,URUAPAN,5,Ziracuaretiro,Ziracuaretiro
+112,ZITÁCUARO,ZITÁCUARO,3,Zitácuaro,Zitácuaro
+113,JOSÉ SIXTO VERDUZCO,LA PIEDAD,6,José Sixto Verduzco,José Sixto Verduzco
